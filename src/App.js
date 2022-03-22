@@ -7,11 +7,12 @@ function App () {
 
   return (
     <div className="App">
-      <Router>
+      app
+      {/*<Router>
         <Routes>
           <Route path = "/" exact element={<Products/>}/>
         </Routes>
-      </Router>
+  </Router>*/}
     </div>
   )
 }
